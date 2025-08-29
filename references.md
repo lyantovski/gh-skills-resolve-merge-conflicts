@@ -1,1 +1,3 @@
-New file for test confilcts on merge
+# References
+
+* octocat 1 😈
